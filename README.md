@@ -2,7 +2,7 @@
 - 👀 I’m interested in old movies, eating plants, and musical theatre
 - 🌱 I’m currently learning to code full stack applications
 - 💞️ I’m looking to collaborate on future projects 
-- 📫 How to reach me via email
+- 📫 Reach out via email!
 
 <!---
 kheeb/kheeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
