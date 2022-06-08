@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kheeb
 - 👀 I’m interested in old movies, eating plants, and musical theatre
-- 🌱 I’m currently learning to code full stack applications
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on future projects 
 - 📫 Reach out via email!
 
